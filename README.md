@@ -1,6 +1,6 @@
 ### Hi there , I'm Gurgen 👋
 
-Glad to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=gugohh)
+Glad to see you here!!![visitors](https://visitor-badge.glitch.me/badge?page_id=gugohh)
 
 I'm a junior  full-stack web developer...
 
