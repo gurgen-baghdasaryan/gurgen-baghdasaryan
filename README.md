@@ -20,4 +20,4 @@ Talking about Personal Stuffs:
 
 
 
-${your.username}.${your.repo.id}
+
