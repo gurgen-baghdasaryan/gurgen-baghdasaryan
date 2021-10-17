@@ -1,8 +1,7 @@
 ### Hi there , I'm Gurgen👋
 
 Glad to see you here!!![visitors](https://visitor-badge.glitch.me/badge?page_id=gugohh)
-<!--
-**gugohh/gugohh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 - 👨🏻‍💻 I’m currently learning  something cool...
