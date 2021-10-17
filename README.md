@@ -1,9 +1,10 @@
-### Hi there , I'm Gurgen👋
+### Hi there , I'm Gurgen 👋
 
-Glad to see you here!!![visitors](https://visitor-badge.glitch.me/badge?page_id=gugohh)
+Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=gugohh)
 
+I'm a junior  full-stack web developer...
 
-Here are some ideas to get you started:
+Talking about Personal Stuffs:
 - 👨🏻‍💻 I’m currently learning  something cool...
 - 🔭 I’m currently working on ...
 - 🚀 I’m looking to collaborate on ...
