@@ -18,8 +18,8 @@
 
 
 
-MY[visitors](https://visitor-badge.glitch.me/badge?page_id=gurgen-baghdasaryan)
-SHOW_PROJECTS: "False"
+Glad to see YOU ![visitors](https://visitor-badge.glitch.me/badge?page_id=gurgen-baghdasaryan)
+
 
 
 
