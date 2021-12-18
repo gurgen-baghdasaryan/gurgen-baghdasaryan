@@ -1,13 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Gurgen</h1>
+<h1 align="center">Hi 👋, I'm Gurgen 	:robot:</h1>
 <h3 align="center">MERN | Jr. Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/linkedin.com/in/gurgenbaghdasaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gurgenbaghdasaryan" height="30" width="40" /></a>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,6 +19,7 @@
 
 
 MY[visitors](https://visitor-badge.glitch.me/badge?page_id=gurgen-baghdasaryan)
+SHOW_PROJECTS: "False"
 
 
 
