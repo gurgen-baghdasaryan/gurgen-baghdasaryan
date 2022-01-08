@@ -13,7 +13,6 @@
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
   
-
 </p>
 
 <h3 align="left">Tech Stack:</h3>
