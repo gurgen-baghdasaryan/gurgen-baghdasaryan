@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋,  I'm Gurgen 	:robot:</h1>
+<h1 align="center">Hi 👋,  I'm Gugo 	:robot:</h1>
 
 
 <h3 align="left">Connect with me: </h3>
