@@ -6,12 +6,10 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 
-   <a href="https://www.linkedin.com/in/gurgenbaghdasaryan/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/gurgen-baghdasaryan/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
+[<img src="https://github.com/l0g0l/hackathonmwc/raw/main/src/images/linkedin.png"  width=40px heigth=40px align="left">](https://www.linkedin.com/in/gurgenbaghdasaryan/) 
+[<img src="https://github.com/l0g0l/hackathonmwc/raw/main/src/images/GitHub.png" width=45px heigth=45px>](https://github.com/gurgen-baghdasaryan)
+
+
   
 </p>
 
