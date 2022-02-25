@@ -5,12 +5,8 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-
 [<img src="https://github.com/l0g0l/hackathonmwc/raw/main/src/images/linkedin.png"  width=40px heigth=40px align="left">](https://www.linkedin.com/in/gurgenbaghdasaryan/) 
-[<img src="https://github.com/l0g0l/hackathonmwc/raw/main/src/images/GitHub.png" width=45px heigth=45px>](https://github.com/gurgen-baghdasaryan)
-
-
-  
+[<img src="https://github.com/l0g0l/hackathonmwc/raw/main/src/images/GitHub.png" width=45px heigth=45px>](https://github.com/gurgen-baghdasaryan) 
 </p>
 
 <h3 align="left"> Tech Stack:</h3>
